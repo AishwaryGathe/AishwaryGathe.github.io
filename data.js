@@ -27,14 +27,14 @@ const defaultFileSystem = {
                     app: 'browser',
                     url: 'https://github.com/AishwaryGathe/CloudLibrary-AWS-ObservaStack'
                 },
-                {
-                    id: 'proj2',
-                    name: 'E-Commerce App',
-                    type: 'file',
-                    iconImg: 'https://win98icons.alexmeub.com/icons/png/html-0.png',
-                    app: 'text-viewer',
-                    content: '<h3>E-Commerce App</h3><p>A full-stack shopping platform built with React and Node.js.</p>'
-                }
+                // {
+                //     id: 'proj2',
+                //     name: 'E-Commerce App',
+                //     type: 'file',
+                //     iconImg: 'https://win98icons.alexmeub.com/icons/png/html-0.png',
+                //     app: 'text-viewer',
+                //     content: '<h3>E-Commerce App</h3><p>A full-stack shopping platform built with React and Node.js.</p>'
+                // }
             ]
         },
         {
@@ -46,7 +46,7 @@ const defaultFileSystem = {
             content: [
                 {
                     id: 'vid1',
-                    name: 'Coding Tutorial',
+                    name: 'Hack This Fall 3.0 Vlog',
                     type: 'file',
                     iconImg: 'https://win98icons.alexmeub.com/icons/png/media_player_stream_no2-0.png',
                     app: 'browser',
